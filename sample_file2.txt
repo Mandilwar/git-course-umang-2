@@ -1,0 +1,2 @@
+This is another sample file for learning the git commands.
+Here all the git practice will be done.
